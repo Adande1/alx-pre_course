@@ -1,3 +1,7 @@
+ update_script-1
+bash/alx:#!/bin/bash echo"alx school"
+bash/school:#!/bin/bash  echo"school is open"
 bash/alx:#!/bin/bash echo"ALX school is so cool"
 bash/school:#!/bin/bash  echo"school"
+ main
 
